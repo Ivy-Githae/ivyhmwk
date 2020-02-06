@@ -1,0 +1,13 @@
+.navbar .nav-item .nav-link a{
+    color: red;!important;
+    justify-content: end;
+}
+.fa-twitter{
+    color: lightblue;
+}
+.fa-youtube{
+    color: red;
+}
+.fa-facebook{
+    color: white;
+}

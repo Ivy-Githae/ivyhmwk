@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="138a0f43-8555-4699-bb9a-dcd1c9f0bf6f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X9vrEec5vEbpvxjw6QPiAAl4BT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="/opt/lampp/htdocs/phpclassone" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="138a0f43-8555-4699-bb9a-dcd1c9f0bf6f" name="Default Changelist" comment="" />
+      <created>1580471321589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580471321589</updated>
+      <workItem from="1580471323089" duration="1097000" />
+      <workItem from="1580607770295" duration="4756000" />
+      <workItem from="1580730272160" duration="5679000" />
+      <workItem from="1580778303116" duration="11607000" />
+      <workItem from="1580823385988" duration="406000" />
+      <workItem from="1580872540779" duration="7844000" />
+      <workItem from="1580901904099" duration="1235000" />
+      <workItem from="1580908077054" duration="4637000" />
+      <workItem from="1580989644559" duration="1308000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="522" y="183" width="526" height="501" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580798269739">
+      <screen x="0" y="0" width="1600" height="873" />
+    </state>
+    <state x="522" y="183" width="526" height="501" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.873@0.0.1600.873" timestamp="1580798269739" />
+    <state x="566" y="176" width="426" height="512" key="FileChooserDialogImpl" timestamp="1580903084883">
+      <screen x="0" y="0" width="1600" height="873" />
+    </state>
+    <state x="566" y="176" width="426" height="512" key="FileChooserDialogImpl/0.0.1600.873@0.0.1600.873" timestamp="1580903084883" />
+  </component>
+</project>
